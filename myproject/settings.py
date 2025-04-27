@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'request_test',
+    'accounts',
 ]
 
 # 템플릿 경로 자동 설정됨 (추가 설정 X)
